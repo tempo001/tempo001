@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tempo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempo001&theme=dark&show_icons=true)
+[![tempo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempo001&theme=dark&show_icons=true)](https://github.com/tempo001)
 
 
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tempo001)](https://codeforces.com/profile/tempo001)  &nbsp;  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempo001)](https://solved.ac/profile/tempo001)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tempo001)](https://codeforces.com/profile/tempo001) &nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempo001)](https://solved.ac/profile/tempo001)
