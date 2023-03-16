@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-[![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://github.com/tempo001/tempo001)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](https://github.com/tempo001/tempo001)
+[![Java](https://img.shields.io/badge/-Java-FF160B?logo=java&logoColor=white)](https://github.com/tempo001/tempo001)
+[![Python](https://img.shields.io/badge/Python-3774a6?logo=Python&logoColor=white)](https://github.com/tempo001/tempo001)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://github.com/tempo001/tempo001)
-<br/>
+
 [![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white)](https://github.com/tempo001/tempo001)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)](https://github.com/tempo001/tempo001)
 [![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)](https://github.com/tempo001/tempo001)
@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 ## My Codeforces, solved.ac stats
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=tempo001)](https://codeforces.com/profile/tempo001) &nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempo001)](https://www.acmicpc.net/user/tempo001)
 
+-----
 
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftempo001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/tempo001)
+<div align="center">
+  <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftempo001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
