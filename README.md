@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-[![Java](https://img.shields.io/badge/-Java-FF160B?logo=java&logoColor=white)](https://github.com/tempo001/tempo001)
-[![Python](https://img.shields.io/badge/Python-3774a6?logo=Python&logoColor=white)](https://github.com/tempo001/tempo001)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://github.com/tempo001/tempo001)
+[![Java](https://img.shields.io/badge/-Java-FF160B?logo=java&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001)
+[![Python](https://img.shields.io/badge/Python-3774a6?logo=Python&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001)
+[![MySQL](https://img.shields.io/badge/-MySQL-2b6286?logo=mysql&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001)
 
-[![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white)](https://github.com/tempo001/tempo001)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)](https://github.com/tempo001/tempo001)
-[![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)](https://github.com/tempo001/tempo001)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001)
 
 
 ## My Github stats
