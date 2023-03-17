@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ## Technical skills
 
-| Languages | [![Java](https://img.shields.io/badge/-Java-FF160B?logo=java&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001) [![Python](https://img.shields.io/badge/Python-3774a6?logo=Python&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001) |
+| Languages | [![Java](https://img.shields.io/badge/-Java-FF160B?logo=java&logoColor=white&style=for-the-badge)](https://github.com/tempo001) [![Python](https://img.shields.io/badge/Python-3774a6?logo=Python&logoColor=white&style=for-the-badge)](https://github.com/tempo001) |
 | :--- | :--- |
-| DB | [![MySQL](https://img.shields.io/badge/-MySQL-2b6286?logo=mysql&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001) |
-| Framework | [![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white&style=for-the-badge)](https://github.com/tempo001/tempo001) |
+| DB | [![MySQL](https://img.shields.io/badge/-MySQL-2b6286?logo=mysql&logoColor=white&style=for-the-badge)](https://github.com/tempo001) |
+| Framework | [![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white&style=for-the-badge)](https://github.com/tempo001) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white&style=for-the-badge)](https://github.com/tempo001) |
 
 
 
