@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 
 ## My Github stats
-[![tempo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempo001&theme=dark&show_icons=true)](https://github.com/tempo001)
-
+<!--[![tempo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempo001&theme=dark&show_icons=true)](https://github.com/tempo001)-->
+[![tempo001's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tempo001)](https://github.com/tempo001)
 
 ## My Codeforces, solved.ac stats
 <a href="https://codeforces.com/profile/tempo001" target="_blank"><img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/card?username=tempo001" height="240px"/></a> &nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempo001)](https://www.acmicpc.net/user/tempo001)
