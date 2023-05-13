@@ -28,10 +28,13 @@ Here are some ideas to get you started:
 | Framework | [![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white&style=for-the-badge)](https://github.com/tempo001) [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white&style=for-the-badge)](https://github.com/tempo001) |
 
 
-
+<!--
 ## My Github stats
+-->
 <!--[![tempo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=tempo001&theme=dark&show_icons=true)](https://github.com/tempo001)-->
+<!--
 [![tempo001's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tempo001)](https://github.com/tempo001)
+-->
 
 ## My Codeforces, solved.ac stats
 <a href="https://codeforces.com/profile/tempo001" target="_blank"><img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/card?username=tempo001" height="240px"/></a> &nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tempo001)](https://www.acmicpc.net/user/tempo001)
