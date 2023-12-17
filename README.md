@@ -1,8 +1,11 @@
 ## About me 👋
-안녕하세요. Java 백엔드 개발자 지망생입니다.
+안녕하세요. 백엔드 개발자 지망생입니다.
 
 피드백과 자기 반성을 통해 성장하는 것을 좋아하고, 가끔씩 취미로 알고리즘 문제를 푸는 걸 좋아합니다.
 
+こんにちは。バックエンド開発者志望者です。
+
+フィードバックと自己反省で成長するのが好きで、時々趣味でアルゴリズムの問題を解くのが好きです。
 <!--
 ### Hi there 👋
 **tempo001/tempo001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
